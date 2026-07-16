@@ -1,0 +1,15 @@
+pyproject.toml
+aletheia/__init__.py
+aletheia.egg-info/PKG-INFO
+aletheia.egg-info/SOURCES.txt
+aletheia.egg-info/dependency_links.txt
+aletheia.egg-info/requires.txt
+aletheia.egg-info/top_level.txt
+aletheia/ingestion/__init__.py
+aletheia/ingestion/base.py
+aletheia/ingestion/bing_ads.py
+aletheia/ingestion/google_ads.py
+aletheia/ingestion/merger.py
+aletheia/ingestion/meta_ads.py
+aletheia/ingestion/validator.py
+tests/test_ingestion.py
